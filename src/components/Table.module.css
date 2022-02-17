@@ -1,0 +1,9 @@
+.table {
+  border: 1px solid black;
+
+  width: fit-content;
+  margin: auto;
+}
+.table > tr > td {
+  border: 1px solid black;
+}
